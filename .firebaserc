@@ -1,0 +1,28 @@
+{
+  "targets": {
+    "fir-2116f": {
+      "hosting": {
+        "Firebase": [
+          "fir-2116f"
+        ]
+      }
+    },
+    "uasserver-acaa4": {
+      "hosting": {
+        "Firebase": [
+          "uasserver-acaa4"
+        ]
+      }
+    },
+    "uasintan": {
+      "hosting": {
+        "Firebase": [
+          "uasintan"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "uasintan"
+  }
+}
